@@ -1,0 +1,14 @@
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\FormsTemplateiOS.exe
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\FormsTemplateiOS.pdb
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\xamarin_primes.dll
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\xamarin_primes.pdb
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\obj\iPhone\Debug\
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\obj\iPhone\Debug\xamarin_primes.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\xamarin_primes\xamarin_primes.iOS\bin\iPhone\Debug\xamarin_primes.dll.mdb

@@ -1,0 +1,10 @@
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\c_primes.exe.config
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\c_primes.exe
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\c_primes.pdb
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\xamarin_primes.dll
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\xamarin_primes.pdb
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\obj\Debug\c_primes.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\obj\Debug\c_primes.exe
+C:\Users\Kristoffer\OneDrive\Code\Git\xamarin_primes\xamarin_primes\c_primes\obj\Debug\c_primes.pdb
